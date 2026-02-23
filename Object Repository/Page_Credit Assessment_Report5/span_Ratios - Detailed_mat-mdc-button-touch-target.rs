@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ratios - Detailed_mat-mdc-button-touch-target</name>
+   <tag></tag>
+   <elementGuidId>e334107c-384a-4d4a-96eb-7b4a3cb5aef2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#reportsPrintButton > span.mat-mdc-button-touch-target</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='reportsPrintButton']/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#reportsPrintButton</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9c9fd51d-ea7a-48e4-bedf-b4025f99b781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-button-touch-target</value>
+      <webElementGuid>142c724a-0452-4910-b0fe-6a1f175cbdfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reportsPrintButton&quot;)/span[@class=&quot;mat-mdc-button-touch-target&quot;]</value>
+      <webElementGuid>c63ad38b-c336-4291-a526-2f1f65ebf96d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='reportsPrintButton']/span[3]</value>
+      <webElementGuid>fd41fcd4-edaa-4796-8d1d-044ccbc92be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/button/span[3]</value>
+      <webElementGuid>aec288da-3c9e-49ff-bd86-c5e368a337b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
