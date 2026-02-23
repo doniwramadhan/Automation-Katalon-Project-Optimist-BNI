@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Balance Sheet_ag-icon ag-icon-tree-closed</name>
+   <tag></tag>
+   <elementGuidId>4719e5e7-0aa4-44c5-8c06-6136824260f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-row-odd.ag-row-no-focus.ag-row.ag-row-level-0.ag-row-group.ag-row-group-contracted.ag-row-position-absolute > div.ag-cell-value.ag-cell.ag-cell-not-inline-editing.ag-cell-normal-height.ag-cell-last-left-pinned.ag-cell-range-left > span.ag-cell-wrapper.ag-cell-expandable.ag-row-group.ag-row-group-indent-0 > span.ag-group-contracted > span.ag-icon.ag-icon-tree-closed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ag-grid-angular[@id='opt-loading-grid']/div/div[2]/div[2]/div[3]/div/div[2]/div/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ag-row-odd > .ag-cell-value > .ag-cell-wrapper > .ag-group-contracted > .ag-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d65fdf24-9cd4-408c-9f21-129eb62b92aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-icon ag-icon-tree-closed</value>
+      <webElementGuid>c5d30de7-4912-42e8-b961-f16d9b72e459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>cf994f68-06f7-4ebd-9fe4-59ce9d2ec7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>3643ec95-1a64-413c-9926-d5cf7d9bc1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opt-loading-grid&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation&quot;]/div[@class=&quot;ag-pinned-left-cols-container&quot;]/div[@class=&quot;ag-row-odd ag-row-no-focus ag-row ag-row-level-0 ag-row-group ag-row-group-contracted ag-row-position-absolute&quot;]/div[@class=&quot;ag-cell-value ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-cell-last-left-pinned ag-cell-range-left&quot;]/span[@class=&quot;ag-cell-wrapper ag-cell-expandable ag-row-group ag-row-group-indent-0&quot;]/span[@class=&quot;ag-group-contracted&quot;]/span[@class=&quot;ag-icon ag-icon-tree-closed&quot;]</value>
+      <webElementGuid>32cb9e09-e6ec-480e-af4f-001d53634b0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ag-grid-angular[@id='opt-loading-grid']/div/div[2]/div[2]/div[3]/div/div[2]/div/span/span[2]/span</value>
+      <webElementGuid>d2a3666d-cb03-416c-982a-7dc9dd83a4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span[2]/span</value>
+      <webElementGuid>1707675c-5720-4af9-96d8-5dc1ce914f9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

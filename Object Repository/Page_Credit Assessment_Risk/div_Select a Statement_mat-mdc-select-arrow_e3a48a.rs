@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a Statement_mat-mdc-select-arrow_e3a48a</name>
+   <tag></tag>
+   <elementGuidId>e096d5a3-0d6b-46e6-aa99-8d94cf489f39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-select[@id='cmbRiskStmtSelection']/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-mdc-select-arrow.ng-tns-c1154042729-27</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Select a Statement&quot;i >> div >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b51e40b1-ea25-47d5-8ef8-d74b91c8bc28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-select-arrow ng-tns-c1154042729-27</value>
+      <webElementGuid>28b51b50-4942-4039-ba38-7a0e8abc35b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cmbRiskStmtSelection&quot;)/div[@class=&quot;mat-mdc-select-trigger ng-tns-c1154042729-27&quot;]/div[@class=&quot;mat-mdc-select-arrow-wrapper ng-tns-c1154042729-27&quot;]/div[@class=&quot;mat-mdc-select-arrow ng-tns-c1154042729-27&quot;]</value>
+      <webElementGuid>b6bba2dd-e579-45e2-9ef4-3be608b946e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-select[@id='cmbRiskStmtSelection']/div/div[2]/div</value>
+      <webElementGuid>52283367-1311-42c9-8515-d780f7dd3889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Statement'])[2]/following::div[2]</value>
+      <webElementGuid>1d1e470f-e517-432a-b515-41306edcc3ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Statement'])[1]/following::div[6]</value>
+      <webElementGuid>8d0b0095-b06f-47cd-885c-c18b4bc8578c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//opt-statement-select/mat-form-field/div/div/div[2]/mat-select/div/div[2]/div</value>
+      <webElementGuid>1f35e80b-64e3-4a21-b1ae-62a163aa02dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

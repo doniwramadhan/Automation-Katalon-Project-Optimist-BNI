@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Whole Units IDRIDR_ag-icon ag-icon-tre_0576db</name>
+   <tag></tag>
+   <elementGuidId>68804416-d2b7-4dad-b9c6-c4edd55ce0a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ag-icon.ag-icon-tree-closed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ag-grid-angular[@id='opt-loading-grid']/div/div[2]/div[2]/div[3]/div/div/div/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ag-group-contracted > .ag-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0020d1a9-5a66-4283-b0d7-a9c69c45cb63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-icon ag-icon-tree-closed</value>
+      <webElementGuid>c7977ec2-2475-4c8b-b45c-a283e1079c59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>49815393-fbfa-46fc-9737-3a5a8ea7fe37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>7c66145f-01df-47f3-9a7d-2fc335a1ceaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opt-loading-grid&quot;)/div[@class=&quot;ag-root-wrapper ag-layout-normal ag-ltr&quot;]/div[@class=&quot;ag-root-wrapper-body ag-layout-normal ag-focus-managed&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-layout-normal ag-row-no-animation ag-has-focus&quot;]/div[@class=&quot;ag-pinned-left-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row ag-row-level-0 ag-row-group ag-row-group-contracted ag-row-position-absolute ag-row-first ag-row-focus&quot;]/div[@class=&quot;ag-cell-value ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-cell-last-left-pinned ag-cell-focus ag-cell-range-selected ag-cell-range-selected-1 ag-cell-range-single-cell&quot;]/span[@class=&quot;ag-cell-wrapper ag-cell-expandable ag-row-group ag-row-group-indent-0&quot;]/span[@class=&quot;ag-group-contracted&quot;]/span[@class=&quot;ag-icon ag-icon-tree-closed&quot;]</value>
+      <webElementGuid>3f051839-4b71-4bcd-9a9e-aaa1541b7169</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ag-grid-angular[@id='opt-loading-grid']/div/div[2]/div[2]/div[3]/div/div/div/span/span[2]/span</value>
+      <webElementGuid>6a62d23e-e279-4900-a6d9-d699e2a3e30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]/span</value>
+      <webElementGuid>c27a0d9d-82c0-4890-8675-014aa559d916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

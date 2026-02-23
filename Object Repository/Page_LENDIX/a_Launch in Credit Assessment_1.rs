@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Launch in Credit Assessment_1</name>
+   <tag></tag>
+   <elementGuidId>cfd195d9-2506-444f-8dd3-b9a5d188d401</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.flw__link__a.flw__component__a.flw__link--primary__a.flw__link--button__a.flw__component--primary__a.flw__component--button__a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='.extraSettings.layoutDefinition.rows.1.cols.0.extraSettings.layoutDefinition.rows.0.cols.0.extraSettings.sections.0.extraSettings.layoutDefinition.rows.0.cols.0.extraSettings.layoutDefinition.rows.1.cols.0-panel-']/div/div/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Launch in Credit Assessment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9692e7a-8cd2-43a8-8619-447ebf3bf498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>ac2b581d-e110-47f8-baf1-7492dbdfeac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Launch in Credit Assessment</value>
+      <webElementGuid>0007dc70-4f33-47a9-b925-8f18b52c6056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flw__link__a flw__component__a flw__link--primary__a flw__link--button__a flw__component--primary__a flw__component--button__a</value>
+      <webElementGuid>eaec8850-b478-44d0-8254-b78746eea427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://lmswhsappdev02.hq.bni.co.id/Optimist8_BNI2/optimistbui?relayState=LegalEntity/d598bb7e-7e8d-e24b-894c-3a1f1ba99a7c/loading</value>
+      <webElementGuid>2e55cc53-852d-430a-ad23-8b8851f180c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Launch in Credit Assessment</value>
+      <webElementGuid>51ea6dc4-0e7b-4c99-b232-d084e11be0a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;.extraSettings.layoutDefinition.rows.1.cols.0.extraSettings.layoutDefinition.rows.0.cols.0.extraSettings.sections.0.extraSettings.layoutDefinition.rows.0.cols.0.extraSettings.layoutDefinition.rows.1.cols.0-panel-&quot;)/div[@class=&quot;flw__panel__row flw__container__row&quot;]/div[@class=&quot;flw__panel__col--12 flw__container__col--12&quot;]/div[@class=&quot;flw__buttongroup__wrapper-top flw__container__wrapper-top flw__buttongroup--right__wrapper-top flw__container--right__wrapper-top&quot;]/div[@class=&quot;flw__buttongroup__body flw__container__body flw__buttongroup--right__body flw__container--right__body&quot;]/div[@class=&quot;flw__buttongroup flw__container flw__buttongroup--right flw__container--right&quot;]/div[@class=&quot;flw__buttongroup__buttongroup-item flw__container__buttongroup-item flw__buttongroup--right__buttongroup-item flw__container--right__buttongroup-item&quot;]/div[@class=&quot;flw__link flw__component flw__link--primary flw__link--button flw__component--primary flw__component--button&quot;]/a[@class=&quot;flw__link__a flw__component__a flw__link--primary__a flw__link--button__a flw__component--primary__a flw__component--button__a&quot;]</value>
+      <webElementGuid>aca90d26-73be-4693-827f-f693b568017b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='.extraSettings.layoutDefinition.rows.1.cols.0.extraSettings.layoutDefinition.rows.0.cols.0.extraSettings.sections.0.extraSettings.layoutDefinition.rows.0.cols.0.extraSettings.layoutDefinition.rows.1.cols.0-panel-']/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>09ab4b8b-acba-4930-8ce2-4eac3b747a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Launch in Credit Assessment')]</value>
+      <webElementGuid>bb60c531-fc38-42d5-a869-6e3c8295df7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Reports'])[1]/following::a[1]</value>
+      <webElementGuid>2cbe8015-3b74-4541-a3d0-45a42c9b9b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Risk Rating'])[1]/following::a[1]</value>
+      <webElementGuid>cb036d44-e953-477a-b48e-8b0db1921484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Optimist Model'])[1]/preceding::a[1]</value>
+      <webElementGuid>d8008aee-81d6-4ba5-aef6-24db08dcf91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Summary'])[1]/preceding::a[2]</value>
+      <webElementGuid>45fe8e83-f3b3-43fa-b0dc-d7db9cab44f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Launch in Credit Assessment']/parent::*</value>
+      <webElementGuid>217e0021-3811-4820-8e10-248bea144571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://lmswhsappdev02.hq.bni.co.id/Optimist8_BNI2/optimistbui?relayState=LegalEntity/d598bb7e-7e8d-e24b-894c-3a1f1ba99a7c/loading')]</value>
+      <webElementGuid>543239ca-5b8b-466c-a8e8-1093ef0742c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>068e8cd6-c05c-41ad-9010-affe3113e12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Launch in Credit Assessment' and @href = 'https://lmswhsappdev02.hq.bni.co.id/Optimist8_BNI2/optimistbui?relayState=LegalEntity/d598bb7e-7e8d-e24b-894c-3a1f1ba99a7c/loading' and (text() = 'Launch in Credit Assessment' or . = 'Launch in Credit Assessment')]</value>
+      <webElementGuid>51b630a2-44ef-46c1-bf9b-e6fe3994d746</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

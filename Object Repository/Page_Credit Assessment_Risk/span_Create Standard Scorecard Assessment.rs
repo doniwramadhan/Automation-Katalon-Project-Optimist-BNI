@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Standard Scorecard Assessment</name>
+   <tag></tag>
+   <elementGuidId>643ff864-f623-4be8-b711-4c3518e9a199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='standardScorecard']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-mdc-menu-item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Create Standard Scorecard Assessment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0c2c570-0dca-4851-b02a-0c916e86a97a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-mdc-menu-item-text</value>
+      <webElementGuid>e94c7c57-7c5d-4ea2-990f-992b4c7dfc60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Standard Scorecard Assessment </value>
+      <webElementGuid>2cf53a7b-99ae-489e-8e9c-7c7111059108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;standardScorecard&quot;)/span[@class=&quot;mat-mdc-menu-item-text&quot;]</value>
+      <webElementGuid>0c65368a-2a5d-4e7f-9687-278a5c8941e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='standardScorecard']/span</value>
+      <webElementGuid>b494e1d5-fd85-48c1-aa6b-9223b5f57155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Assessment'])[1]/following::span[1]</value>
+      <webElementGuid>b428b1de-f627-4895-8a74-0b1c52b37aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Statements'])[1]/following::span[1]</value>
+      <webElementGuid>3ceb57fc-5829-4564-8513-1d842d7c335f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Decision Tree Assessment'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ed28f70-f5fd-4ab7-9010-f65e56d6e072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Standard Scorecard Assessment']/parent::*</value>
+      <webElementGuid>634f8c87-4ce3-4a7a-8039-72ae29725c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button/span</value>
+      <webElementGuid>84a9469a-dfb3-4f9d-9663-8ab7ba56b6b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Create Standard Scorecard Assessment ' or . = ' Create Standard Scorecard Assessment ')]</value>
+      <webElementGuid>2f72f74a-91c1-40a6-95bc-0cdd95acada6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

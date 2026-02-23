@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Credit Assessment_1</name>
+   <tag></tag>
+   <elementGuidId>028231f9-4bd8-4787-b5b4-6eba094fbd4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Credit Assessment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e82a85a2-d1e5-4cf9-bc15-c53932100361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flw-navigationBar__navigation-element</value>
+      <webElementGuid>dc56ab0a-3648-48e4-b773-366440b9df5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Credit Assessment</value>
+      <webElementGuid>60232723-4edd-4f05-bcbb-69abe9c94970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;caseViewContainer-CAS-945807ab-fce6-11f0-874f-00505690fc03&quot;)/div[@class=&quot;flw-root-app&quot;]/div[@class=&quot;flw-customCaseDetails flw-customCaseDetails--with-navigation-bar flw-customCaseDetails--collapsed&quot;]/div[@class=&quot;flw-navigationBar&quot;]/div[@class=&quot;flw-navigationBar__navigation-elements-container&quot;]/div[@class=&quot;flw-navigationBar__navigation-elements&quot;]/div[@class=&quot;flw-navigationBar__navigation-element&quot;]</value>
+      <webElementGuid>d40c601d-1f88-40d7-9e4b-9b3ba9dc3281</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='caseViewContainer-CAS-945807ab-fce6-11f0-874f-00505690fc03']/div[2]/div/div/div/div/div[4]</value>
+      <webElementGuid>a415b65e-21c0-47a1-a0e8-581f1d0e8be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collaterals'])[1]/following::div[1]</value>
+      <webElementGuid>3227764b-cb92-4bdf-a5dc-de844436b26c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facilities'])[1]/following::div[2]</value>
+      <webElementGuid>b26b935f-6e03-48df-ba33-eb87ca641fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Monitoring'])[1]/preceding::div[1]</value>
+      <webElementGuid>5cfc9227-fec8-4343-8887-3bf1fa013b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Borrower Hierarchy'])[1]/preceding::div[2]</value>
+      <webElementGuid>9975f9e4-cd84-426e-a2db-8d2afd1ed4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Credit Assessment']/parent::*</value>
+      <webElementGuid>2f57ab2d-87bc-4e1d-a41c-b6011859174b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>278bfc3c-8564-4d8a-8916-489fe8268959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Credit Assessment' or . = 'Credit Assessment')]</value>
+      <webElementGuid>3205813d-cf30-41e5-a183-76403fd236bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
