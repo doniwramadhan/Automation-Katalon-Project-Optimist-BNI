@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1</name>
+   <name>TC2_ObligorRating</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>771af7e6-699c-4bd9-9721-64a291db93f5</testCaseGuid>
+   <testCaseGuid>aeee1751-8a42-4de4-b63c-29ad5c9c298d</testCaseGuid>
 </TestCaseEntity>
