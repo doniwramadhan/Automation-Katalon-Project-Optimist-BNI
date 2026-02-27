@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>0cd3f39e-a625-4378-8cc7-42d7c2e78ea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mdc-list-item__primary-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='option-39c93ccd-7598-424b-020f-3a1d37e07e51']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Yes&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85638938-1e09-4356-9d1b-dccb19e6ea0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdc-list-item__primary-text</value>
+      <webElementGuid>c870aea7-a3b2-434f-9ebf-42d33c900082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Yes </value>
+      <webElementGuid>9cb7a57c-01ed-4250-828e-1b003f42e882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;option-39c93ccd-7598-424b-020f-3a1d37e07e51&quot;)/span[@class=&quot;mdc-list-item__primary-text&quot;]</value>
+      <webElementGuid>08ab3aa6-84fb-495d-b96a-9c3c207ea2dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='option-39c93ccd-7598-424b-020f-3a1d37e07e51']/span</value>
+      <webElementGuid>0311454f-e029-49b6-a955-70e4bfc2b5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statement : 1 : 12/31/2021 (Historical)'])[1]/following::span[1]</value>
+      <webElementGuid>a527cf65-01ee-4095-9b89-aa63085a1256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oil &amp; Gas Commercial Risk Template (4.0.0)'])[1]/following::span[1]</value>
+      <webElementGuid>5c929d96-7729-4d00-855c-51830776dfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/preceding::span[1]</value>
+      <webElementGuid>92d610e2-1207-4e54-bb53-7b96a8c22a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option/span</value>
+      <webElementGuid>3d6cae83-a4d4-4a6a-a4ee-94ef67ca3f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Yes ' or . = ' Yes ')]</value>
+      <webElementGuid>09e284a3-b129-4e8d-b5f9-0e1a6ecc3610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

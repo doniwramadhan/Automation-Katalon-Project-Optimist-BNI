@@ -5,7 +5,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-
+import com.kms.katalon.core.testobject.ConditionType
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.checkpoint.Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
@@ -20,25 +20,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-class WebUtils {
+public class RadioUtils {
+	
+	@Keyword
+	def clickYesNo(String questionId, String answer) {
+	
+		String xpath =
+			"//*[@id='${questionId}']" +
+			"/ancestor::*[.//label[normalize-space()='${answer}']][1]" +
+			"//label[normalize-space()='${answer}']"
+	
+		TestObject obj = new TestObject()
+		obj.addProperty("xpath", ConditionType.EQUALS, xpath)
+	
+		WebUI.waitForElementVisible(obj, 10)
+		WebUI.scrollToElement(obj, 5)
+		WebUI.waitForElementClickable(obj, 10)
+	
+		WebUI.click(obj)
+	}
 
-    @Keyword
-    def safeClick(String objectPath) {
-
-        TestObject obj = findTestObject(objectPath)
-
-        WebUI.waitForElementVisible(obj, 10)
-        WebUI.scrollToElement(obj, 5)
-
-        try {
-            WebUI.waitForElementClickable(obj, 5)
-            WebUI.click(obj)
-        } catch (Exception e) {
-
-            println("Normal click gagal, coba JS click")
-
-            def element = WebUiCommonHelper.findWebElement(obj, 10)
-            WebUI.executeJavaScript("arguments[0].click();", Arrays.asList(element))
-        }
-    }
 }

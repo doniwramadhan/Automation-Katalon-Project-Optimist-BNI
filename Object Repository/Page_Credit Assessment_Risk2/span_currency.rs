@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_currency</name>
+   <tag></tag>
+   <elementGuidId>843ebb4c-f212-40eb-8dcd-341f0373db34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#PageHeader_2 > span.collapse-expand.fis-icon-chevron.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PageHeader_2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#PageHeader_2 span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9dc9d1df-e59c-4d55-8fc5-84ebef33adcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapse-expand fis-icon-chevron mat-icon-no-color</value>
+      <webElementGuid>24603023-5d07-41a8-91c9-2916831908f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PageHeader_2&quot;)/span[@class=&quot;collapse-expand fis-icon-chevron mat-icon-no-color&quot;]</value>
+      <webElementGuid>e2553651-6f6f-472e-ac14-2cd7b0692aa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PageHeader_2']/span</value>
+      <webElementGuid>5b570829-4ee8-4620-b0a5-e7041132b5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>22e13bd5-dcd5-4a4e-9526-824860c0207c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
